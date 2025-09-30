@@ -344,9 +344,6 @@ plt.savefig("outputs/charts/top10_states_by_profit.png", dpi=200)
 plt.show()
 ```
 
-## Contributions
-
-Feel free to fork the repository, make modifications, and submit pull requests for any improvements or additional features you would like to add.
 
 ## License
 
